@@ -1,13 +1,13 @@
 :root {
   --fonte: "Montserrat", "Krona One", "Open Sans", sans-serif;
-  --gradiente: linear-gradient(180deg, #e8f5c8 0%, rgb(255, 255, 255) 80%);
+  --gradiente: linear-gradient(180deg, #c0fe24 0%, rgb(255, 255, 255) 80%);
   --gradiente-card: linear-gradient(
     180deg,
     rgba(255, 255, 255, 0.7) 0%,
     rgba(202, 212, 250, 0.3) 100%
   );
-  --verde-claro: #e8f5c8;
-  --azul-escuro: #4163da;
+  --verde-claro: #c0fe24;
+  --azul-escuro: #021e80;
   --lilas-claro: #85a0ff;
   --lilas: #cad4fa;
   --lilas-escuro: #0c0421;

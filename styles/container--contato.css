@@ -18,7 +18,7 @@
 }
 
 .textos {
-  background: linear-gradient(180deg, #e8f5c8 0%, rgb(255, 255, 255) 96%);
+  background: linear-gradient(180deg, #c0fe24 0%, rgb(255, 255, 255) 96%);
   padding: 2rem;
   margin-top: 16px;
   border-radius: 34px;
@@ -370,7 +370,7 @@ dialog::backdrop {
 /* Footer */
 
 footer {
-  background: #e8f5c8;
+  background: #c0fe24;
   padding: 2rem;
   text-align: center;
   font-size: 15px;
